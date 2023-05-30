@@ -1,0 +1,17 @@
+{
+  "name": "vue-markuplint-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "markuplint": "markuplint 'src/**/*.vue'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@markuplint/vue-parser": "3.7.0",
+    "@markuplint/vue-spec": "3.8.0",
+    "markuplint": "3.10.0"
+  }
+}
